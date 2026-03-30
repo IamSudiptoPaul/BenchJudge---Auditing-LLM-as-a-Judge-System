@@ -84,7 +84,7 @@ def generate_responses(model_path, model_id, input_file, output_file, is_mt_benc
     gc.collect()
 
 if __name__ == "__main__":
-    BASE_DIR = "/Users/sudiptogoldfish/Documents/BenchJudge A Meta Evaluation Framework for Auditing LLM as a Judge Systems"
+    BASE_DIR = "# base path"
     
     # Define models to run
     MODELS_TO_RUN = [
