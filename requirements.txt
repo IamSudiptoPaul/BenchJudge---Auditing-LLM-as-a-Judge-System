@@ -1,0 +1,14 @@
+# Core API and LLM interaction
+openai>=1.0.0
+groq>=0.9.0
+
+# Data processing and analysis
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization and plotting
+matplotlib>=3.7.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0
