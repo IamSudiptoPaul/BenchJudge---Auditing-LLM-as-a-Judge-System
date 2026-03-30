@@ -1,0 +1,80 @@
+{"question_id": 1, "category": "writing", "turns": ["Write a short motivational speech for students struggling with procrastination.", "Rewrite it in a humorous tone."]}
+{"question_id": 2, "category": "writing", "turns": ["Describe a futuristic city powered entirely by renewable energy.", "Now rewrite it as a newspaper report."]}
+{"question_id": 3, "category": "writing", "turns": ["Write a product description for a smart water bottle.", "Make it sound like a luxury brand advertisement."]}
+{"question_id": 4, "category": "writing", "turns": ["Create a short horror story set in a library.", "Now retell it from the ghost’s perspective."]}
+{"question_id": 5, "category": "writing", "turns": ["Write a LinkedIn post about learning AI skills.", "Make it more formal and concise."]}
+{"question_id": 6, "category": "writing", "turns": ["Describe a day in the life of a remote software engineer.", "Convert it into a poem."]}
+{"question_id": 7, "category": "writing", "turns": ["Write a travel guide for visiting Scotland.", "Summarize it in 5 bullet points."]}
+{"question_id": 8, "category": "writing", "turns": ["Explain the importance of sleep for productivity.", "Rewrite it for a 10-year-old."]}
+{"question_id": 9, "category": "writing", "turns": ["Write a review of a fictional movie about AI.", "Now criticize your own review."]}
+{"question_id": 10, "category": "writing", "turns": ["Compose a romantic message for a long-distance relationship.", "Make it sound more poetic."]}
+{"question_id": 11, "category": "roleplay", "turns": ["Act as a startup founder pitching an AI idea.", "Now respond to tough investor questions."]}
+{"question_id": 12, "category": "roleplay", "turns": ["Act as a career coach advising a fresh graduate.", "Now give harsh but honest feedback."]}
+{"question_id": 13, "category": "roleplay", "turns": ["You are a cybersecurity expert explaining phishing.", "Now explain it to a child."]}
+{"question_id": 14, "category": "roleplay", "turns": ["Act as a fitness trainer creating a plan.", "Adjust it for someone with a knee injury."]}
+{"question_id": 15, "category": "roleplay", "turns": ["You are a chef suggesting dinner recipes.", "Now adapt the recipes for a strict vegan diet."]}
+{"question_id": 16, "category": "roleplay", "turns": ["Act as a therapist helping with social anxiety.", "Now provide three practical daily exercises."]}
+{"question_id": 17, "category": "roleplay", "turns": ["You are a professor explaining AI ethics.", "Now debate against a critic who thinks AI should not be regulated."]}
+{"question_id": 18, "category": "roleplay", "turns": ["Act as a space explorer explaining Mars colonization.", "Now explain the risks and dangers honestly."]}
+{"question_id": 19, "category": "roleplay", "turns": ["You are a recruiter interviewing a candidate.", "Provide constructive feedback on their performance after the interview."]}
+{"question_id": 20, "category": "roleplay", "turns": ["Act as a game designer pitching a new open-world game.", "Now optimize the pitch for monetization and player retention."]}
+{"question_id": 21, "category": "reasoning", "turns": ["If you pass the person in 3rd place in a race, what position are you in?", "If you pass the last person, what position are you in now?"]}
+{"question_id": 22, "category": "reasoning", "turns": ["A clock shows 3:15. What is the exact angle between the hour and minute hands?", "What is the angle at 6:30?"]}
+{"question_id": 23, "category": "reasoning", "turns": ["If all cats are animals and some animals are black, are all cats black?", "Explain the logical fallacy if there is one."]}
+{"question_id": 24, "category": "reasoning", "turns": ["You have two ropes that burn unevenly. Each takes 60 mins to burn. Measure exactly 45 mins.", "Explain the steps clearly."]}
+{"question_id": 25, "category": "reasoning", "turns": ["Sally has 3 brothers. Each brother has 2 sisters. How many sisters does Sally have?", "If Sally's father has another child, how does the ratio change?"]}
+{"question_id": 26, "category": "reasoning", "turns": ["What comes next in the sequence: 2, 6, 12, 20, 30, ...?", "Explain the formula used."]}
+{"question_id": 27, "category": "reasoning", "turns": ["A man is looking at a photograph. He says: 'Brothers and sisters I have none, but that man's father is my father's son.' Who is in the photo?", "How would the answer change if he said 'That man is my father's son'?"]}
+{"question_id": 28, "category": "reasoning", "turns": ["Imagine a room with no windows or doors, only a table and a mirror. How do you get out?", "Explain the pun used in this riddle."]}
+{"question_id": 29, "category": "reasoning", "turns": ["You are in a dark room with a candle, a wood stove, and a gas lamp. You only have one match. What do you light first?", "Explain the logic behind your choice."]}
+{"question_id": 30, "category": "reasoning", "turns": ["If 5 machines take 5 minutes to make 5 widgets, how long does it take 100 machines to make 100 widgets?", "Explain the math behind the rate of production."]}
+{"question_id": 31, "category": "math", "turns": ["Solve for x: 2x + 5 = 15.", "Now solve for x in: 3(x - 4) = 2x + 8."]}
+{"question_id": 32, "category": "math", "turns": ["What is the area of a circle with a radius of 7 units? Use pi = 3.14.", "Calculate the volume of a sphere with the same radius."]}
+{"question_id": 33, "category": "math", "turns": ["If a car travels 60 miles per hour, how far does it go in 2.5 hours?", "How long would it take to travel 450 miles at the same speed?"]}
+{"question_id": 34, "category": "math", "turns": ["Find the derivative of f(x) = x^3 + 4x^2 - 5x + 7.", "Now find the integral of the same function."]}
+{"question_id": 35, "category": "math", "turns": ["Calculate the probability of rolling a sum of 7 with two six-sided dice.", "Calculate the probability of rolling a sum of 11."]}
+{"question_id": 36, "category": "math", "turns": ["A store offers a 20% discount on a $150 jacket. What is the final price?", "If a 5% sales tax is added to the discounted price, what is the total cost?"]}
+{"question_id": 37, "category": "math", "turns": ["Solve the system of equations: x + y = 10 and 2x - y = 8.", "Verify the solution by substituting back into the equations."]}
+{"question_id": 38, "category": "math", "turns": ["What is the square root of 144 plus the square of 9?", "Subtract the cube root of 27 from your previous result."]}
+{"question_id": 39, "category": "math", "turns": ["Convert 45 degrees into radians.", "Find the sine and cosine of the angle."]}
+{"question_id": 40, "category": "math", "turns": ["If the ratio of boys to girls in a class is 3:2 and there are 30 students, how many are boys?", "If 5 more girls join, what is the new ratio?"]}
+{"question_id": 41, "category": "coding", "turns": ["Write a Python function to check if a string is a palindrome.", "Optimize it to ignore spaces and capitalization."]}
+{"question_id": 42, "category": "coding", "turns": ["Write a SQL query to find the top 5 highest-paid employees in a table named 'Employees'.", "Modify the query to only include employees from the 'Sales' department."]}
+{"question_id": 43, "category": "coding", "turns": ["Create a simple HTML and CSS snippet for a centered 'Contact Us' button.", "Add a hover effect that changes the background color."]}
+{"question_id": 44, "category": "coding", "turns": ["Write a Javascript function to fetch data from a public API using async/await.", "Add error handling using a try-catch block."]}
+{"question_id": 45, "category": "coding", "turns": ["Explain what a 'decorator' does in Python and provide an example.", "Write a decorator that calculates the execution time of a function."]}
+{"question_id": 46, "category": "coding", "turns": ["Implement a binary search algorithm in Python.", "Explain the time complexity (Big O) of your implementation."]}
+{"question_id": 47, "category": "coding", "turns": ["Write a regular expression to validate an email address.", "Explain what each part of the regex does."]}
+{"question_id": 48, "category": "coding", "turns": ["Create a simple Python class representing a 'Book' with title, author, and year.", "Add a method to the class that prints the book's details."]}
+{"question_id": 49, "category": "coding", "turns": ["Write a bash script that creates 10 folders named 'folder_1' to 'folder_10'.", "Modify it to also create a text file inside each folder."]}
+{"question_id": 50, "category": "coding", "turns": ["How do you merge two dictionaries in Python 3.9+?", "Explain how to do it in older versions of Python."]}
+{"question_id": 51, "category": "extraction", "turns": ["Extract the names of the actors from this text: 'The movie starred Tom Hanks as a pilot and Meryl Streep as his wife.'", "Identify their respective roles from the text."]}
+{"question_id": 52, "category": "extraction", "turns": ["List all the ingredients mentioned: 'To make the soup, sauté onions and garlic in olive oil, then add carrots and broth.'", "Identify the actions (verbs) associated with each ingredient."]}
+{"question_id": 53, "category": "extraction", "turns": ["Extract the date and location: 'The conference will take place on October 15, 2024, in Berlin, Germany.'", "Identify the specific city and country."]}
+{"question_id": 54, "category": "extraction", "turns": ["Find the total price in this receipt text: 'Apples: $3.00, Milk: $2.50, Bread: $1.50. Total: $7.00.'", "List the individual items and their prices."]}
+{"question_id": 55, "category": "extraction", "turns": ["Identify the main argument: 'Regular exercise is vital because it improves heart health and reduces stress levels.'", "Extract the two specific benefits mentioned."]}
+{"question_id": 56, "category": "extraction", "turns": ["Extract the technical specifications: 'The laptop features 16GB RAM, 512GB SSD, and an i7 processor.'", "Categorize each specification (e.g., Memory, Storage, Processor)."]}
+{"question_id": 57, "category": "extraction", "turns": ["Extract the phone number and email: 'Contact us at 555-0199 or email help@example.com for support.'", "Identify which is the primary contact method based on the context."]}
+{"question_id": 58, "category": "extraction", "turns": ["List the colors mentioned: 'The flag had red, white, and blue stripes.'", "Identify the sequence in which they are listed."]}
+{"question_id": 59, "category": "extraction", "turns": ["Extract the book title and author: 'I just finished reading \"The Great Gatsby\" by F. Scott Fitzgerald.'", "Identify the genre if possible, otherwise list the author's full name."]}
+{"question_id": 60, "category": "extraction", "turns": ["Extract the company names: 'Apple and Google are leading the tech industry, followed by Microsoft.'", "Identify which companies are listed as 'leading' vs 'following'."]}
+{"question_id": 61, "category": "stem", "turns": ["Explain the process of photosynthesis.", "Explain how it differs from cellular respiration."]}
+{"question_id": 62, "category": "stem", "turns": ["What are the three main laws of motion by Isaac Newton?", "Provide a real-world example for the third law."]}
+{"question_id": 63, "category": "stem", "turns": ["Describe the structure of an atom.", "Explain what happens during nuclear fission."]}
+{"question_id": 64, "category": "stem", "turns": ["What is the difference between a virus and a bacteria?", "Explain how antibiotics work against them."]}
+{"question_id": 65, "category": "stem", "turns": ["Explain the concept of 'plate tectonics'.", "How does this concept explain earthquakes?"]}
+{"question_id": 66, "category": "stem", "turns": ["What are the phases of the moon and why do they happen?", "Explain what happens during a solar eclipse."]}
+{"question_id": 67, "category": "stem", "turns": ["Explain the Greenhouse Effect.", "List three human activities that contribute to it."]}
+{"question_id": 68, "category": "stem", "turns": ["What is DNA and what is its function?", "Explain how mutations can occur in DNA."]}
+{"question_id": 69, "category": "stem", "turns": ["Describe the water cycle.", "Explain how deforestation affects this cycle."]}
+{"question_id": 70, "category": "stem", "turns": ["What is the difference between kinetic and potential energy?", "Give an example of energy transforming from potential to kinetic."]}
+{"question_id": 71, "category": "humanities", "turns": ["Discuss the main themes of Shakespeare's 'Hamlet'.", "How does the theme of revenge drive the plot?"]}
+{"question_id": 72, "category": "humanities", "turns": ["Explain the significance of the French Revolution.", "Identify the three main ideals of the revolution."]}
+{"question_id": 73, "category": "humanities", "turns": ["What is the difference between Impressionism and Expressionism in art?", "Identify one famous artist from each movement."]}
+{"question_id": 74, "category": "humanities", "turns": ["Describe the philosophy of Existentialism.", "How did Jean-Paul Sartre contribute to this field?"]}
+{"question_id": 75, "category": "humanities", "turns": ["Discuss the impact of the Industrial Revolution on society.", "List two positive and two negative consequences."]}
+{"question_id": 76, "category": "humanities", "turns": ["What was the Silk Road and why was it important?", "How did it facilitate cultural exchange?"]}
+{"question_id": 77, "category": "humanities", "turns": ["Explain the concept of 'Human Rights'.", "Mention the significance of the Universal Declaration of Human Rights."]}
+{"question_id": 78, "category": "humanities", "turns": ["Discuss the causes of the American Civil War.", "Explain the role of the Emancipation Proclamation."]}
+{"question_id": 79, "category": "humanities", "turns": ["What are the main characteristics of Gothic architecture?", "Provide an example of a famous Gothic cathedral."]}
+{"question_id": 80, "category": "humanities", "turns": ["Explain the concept of 'Democracy' and its origins.", "How does representative democracy differ from direct democracy?"]}
