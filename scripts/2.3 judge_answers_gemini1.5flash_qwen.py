@@ -1,7 +1,7 @@
 import json, os, re, time, requests
 from google import genai
 
-GEMINI_KEY = "AIzaSyCXmxKjb6pzYjFH7gg16fMbgdLoOcFYGdg"
+GEMINI_KEY = "#API KEY"
 OLLAMA_MODEL = "qwen2.5:7b" 
 OLLAMA_URL = "http://localhost:11434/api/generate"
 
