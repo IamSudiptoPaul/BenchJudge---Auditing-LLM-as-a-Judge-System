@@ -1,7 +1,7 @@
 import json, os, re, time
 from openai import OpenAI
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "#API KEY"
 PROMPTS_FILE = "/Users/sudiptogoldfish/Documents/BenchJudge/datasets/judge_prompts.jsonl"
 BASE_OUTPUT_PATH = "/Users/sudiptogoldfish/Documents/BenchJudge/outputs"
 
