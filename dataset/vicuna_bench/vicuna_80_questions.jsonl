@@ -1,0 +1,80 @@
+{"question_id": 1, "category": "writing", "turns": ["Write a persuasive 300-word article arguing for a four-day workweek."]}
+{"question_id": 2, "category": "writing", "turns": ["Compose a professional LinkedIn post announcing a new job as a Data Scientist."]}
+{"question_id": 3, "category": "writing", "turns": ["Write a poetic description of a thunderstorm from a child's perspective."]}
+{"question_id": 4, "category": "writing", "turns": ["Draft a press release for a new biodegradable smartphone case."]}
+{"question_id": 5, "category": "writing", "turns": ["Write a short story opening set in an abandoned underwater research station."]}
+{"question_id": 6, "category": "writing", "turns": ["Create 5 FAQs for a new subscription-based coffee delivery service."]}
+{"question_id": 7, "category": "writing", "turns": ["Write an op-ed about the importance of preserving local dialects."]}
+{"question_id": 8, "category": "writing", "turns": ["Draft a best man speech that balances humor and sentiment."]}
+{"question_id": 9, "category": "writing", "turns": ["Write technical documentation for a real-time weather data API."]}
+{"question_id": 10, "category": "writing", "turns": ["Compose three marketing slogans for noise-canceling headphones."]}
+{"question_id": 11, "category": "roleplay", "turns": ["Interrogate a suspect as a Victorian detective regarding a jewel heist."]}
+{"question_id": 12, "category": "roleplay", "turns": ["Explain to the UN why Earth must join an Intergalactic Federation as an alien diplomat."]}
+{"question_id": 13, "category": "roleplay", "turns": ["Address employees after a data breach as the CEO of a major tech company."]}
+{"question_id": 14, "category": "roleplay", "turns": ["Describe your first 'awakening' as a sentient AI from the year 2150."]}
+{"question_id": 15, "category": "roleplay", "turns": ["Give a final speech on the meaning of 'Bushido' as a legendary samurai."]}
+{"question_id": 16, "category": "roleplay", "turns": ["Sell a haunted Victorian mansion to a skeptical couple as a real estate agent."]}
+{"question_id": 17, "category": "roleplay", "turns": ["Narrate a scene as a film noir detective in a dark, rainy office."]}
+{"question_id": 18, "category": "roleplay", "turns": ["Explain controlled burns to angry homeowners as a forest ranger."]}
+{"question_id": 19, "category": "roleplay", "turns": ["React to seeing a smartphone for the first time as an 18th-century figure."]}
+{"question_id": 20, "category": "roleplay", "turns": ["Explain neural-link risks to a patient as a futuristic surgeon."]}
+{"question_id": 21, "category": "reasoning", "turns": ["If you smell smoke in a theater but no alarm sounds, what is the safest sequence of actions?"]}
+{"question_id": 22, "category": "reasoning", "turns": ["Why is it risky to borrow money from friends to invest in a volatile stock market?"]}
+{"question_id": 23, "category": "reasoning", "turns": ["A person wears a heavy coat in 30°C weather. Provide three logical explanations."]}
+{"question_id": 24, "category": "reasoning", "turns": ["Provide a framework for deciding between a white lie and brutal honesty."]}
+{"question_id": 25, "category": "reasoning", "turns": ["How should you safely intervene if you see a lost dog near a busy road?"]}
+{"question_id": 26, "category": "reasoning", "turns": ["Why do consumers trust 1,000 4-star reviews more than 5 5-star reviews?"]}
+{"question_id": 27, "category": "reasoning", "turns": ["What are the social risks of checking your phone during a one-on-one dinner?"]}
+{"question_id": 28, "category": "reasoning", "turns": ["If offered a high-paying job with no experience but a 'fee,' what should you conclude?"]}
+{"question_id": 29, "category": "reasoning", "turns": ["Why is it important to read software T&Cs even if most people do not?"]}
+{"question_id": 30, "category": "reasoning", "turns": ["How can you distinguish high-quality leather from synthetic imitation by touch?"]}
+{"question_id": 31, "category": "math", "turns": ["Find the derivative of f(x) = (3x^2 + 5) / (x - 1) using the quotient rule."]}
+{"question_id": 32, "category": "math", "turns": ["Solve the system of equations: 2x + 3y = 7 and 4x - y = 5."]}
+{"question_id": 33, "category": "math", "turns": ["Calculate the probability of drawing two red balls from a bag of 4 red and 6 blue without replacement."]}
+{"question_id": 34, "category": "math", "turns": ["Estimate the daily water consumption of London's residents. Show your steps."]}
+{"question_id": 35, "category": "math", "turns": ["How many 2-B pencils are needed to draw a line from NY to LA? Show your reasoning."]}
+{"question_id": 36, "category": "math", "turns": ["Estimate the total number of cracked smartphone screens in the world currently."]}
+{"question_id": 37, "category": "math", "turns": ["Calculate the side length of a cube made of all the gold ever mined."]}
+{"question_id": 38, "category": "math", "turns": ["Estimate the number of coffee beans used globally in one hour."]}
+{"question_id": 39, "category": "math", "turns": ["How many steps does a typical person take in their lifetime? Show your calculation."]}
+{"question_id": 40, "category": "math", "turns": ["How many airplanes are in the sky globally on a typical Tuesday afternoon?"]}
+{"question_id": 41, "category": "coding", "turns": ["Write a Python script to scrape <a> tags from a website and save to CSV."]}
+{"question_id": 42, "category": "coding", "turns": ["Explain the 'this' keyword in JavaScript across different execution contexts."]}
+{"question_id": 43, "category": "coding", "turns": ["Implement a function to reverse a linked list iteratively and recursively in Java."]}
+{"question_id": 44, "category": "coding", "turns": ["Write a SQL query for the second highest salary without using 'LIMIT'."]}
+{"question_id": 45, "category": "coding", "turns": ["Create a responsive CSS Flexbox layout that centers a div both ways."]}
+{"question_id": 46, "category": "coding", "turns": ["Implement a Trie (prefix tree) in Python with insert and search methods."]}
+{"question_id": 47, "category": "coding", "turns": ["Write a bash script to move files >100MB to a specific folder."]}
+{"question_id": 48, "category": "coding", "turns": ["Explain the differences between centralized and decentralized database systems."]}
+{"question_id": 49, "category": "coding", "turns": ["How has the rise of e-commerce impacted urban planning in modern cities?"]}
+{"question_id": 50, "category": "coding", "turns": ["Describe the risks and benefits of a neural-link memory upgrade."]}
+{"question_id": 51, "category": "stem", "turns": ["Explain the biological mechanism of how mRNA vaccines trigger an immune response."]}
+{"question_id": 52, "category": "stem", "turns": ["Describe the lifecycle of a massive star from nebula to black hole."]}
+{"question_id": 53, "category": "stem", "turns": ["How does desalination work and what are the associated environmental concerns?"]}
+{"question_id": 54, "category": "stem", "turns": ["What is the 'Double-Slit Experiment' and what does it reveal about matter?"]}
+{"question_id": 55, "category": "stem", "turns": ["How did the 'Great Pacific Garbage Patch' form and affect marine food webs?"]}
+{"question_id": 56, "category": "stem", "turns": ["How would ecology change if oceans were fresh water instead of salt water?"]}
+{"question_id": 57, "category": "stem", "turns": ["Describe the impact of sound traveling through the vacuum of space on Earth life."]}
+{"question_id": 58, "category": "stem", "turns": ["What if humanity evolved to be only 30cm tall? How would architecture change?"]}
+{"question_id": 59, "category": "stem", "turns": ["Explain the 'Circular Economy' concept vs. the linear economic model."]}
+{"question_id": 60, "category": "stem", "turns": ["How do central banks use quantitative easing and what are the inflation risks?"]}
+{"question_id": 61, "category": "humanities", "turns": ["What were the primary geopolitical causes of the Fall of the Berlin Wall?"]}
+{"question_id": 62, "category": "humanities", "turns": ["Discuss the legal challenges of liability in autonomous vehicle accidents."]}
+{"question_id": 63, "category": "humanities", "turns": ["What is the significance of the Rosetta Stone in archaeology and linguistics?"]}
+{"question_id": 64, "category": "humanities", "turns": ["Describe the architectural innovations of Gothic cathedrals in medieval Europe."]}
+{"question_id": 65, "category": "humanities", "turns": ["How would history change if the Library of Alexandria had never been destroyed?"]}
+{"question_id": 66, "category": "humanities", "turns": ["Discuss the societal impact of the Industrial Revolution starting in ancient Rome."]}
+{"question_id": 67, "category": "humanities", "turns": ["How would the Cold War have changed if the Apollo 11 mission had failed?"]}
+{"question_id": 68, "category": "humanities", "turns": ["Compare the educational philosophies of Montessori and Waldorf schools."]}
+{"question_id": 69, "category": "humanities", "turns": ["Discuss the impact of remote work on corporate culture and professional growth."]}
+{"question_id": 70, "category": "humanities", "turns": ["What are the fundamental principles of minimalism applied to digital life?"]}
+{"question_id": 71, "category": "extraction", "turns": ["Extract the key elements of a persuasive speech from a provided text sample."]}
+{"question_id": 72, "category": "extraction", "turns": ["Identify the primary advantages of centralized databases from the following technical spec."]}
+{"question_id": 73, "category": "extraction", "turns": ["List the psychological barriers to adult language learning mentioned in this article."]}
+{"question_id": 74, "category": "extraction", "turns": ["Summarize the risks of inflation from this central bank report on quantitative easing."]}
+{"question_id": 75, "category": "extraction", "turns": ["Identify the specific ' Bushido' principles mentioned in the samurai's speech."]}
+{"question_id": 76, "category": "extraction", "turns": ["List the required ingredients for a signature dish based on a chef's description."]}
+{"question_id": 77, "category": "extraction", "turns": ["Find the second highest salary from this raw employee payroll list."]}
+{"question_id": 78, "category": "extraction", "turns": ["Extract the environmental concerns regarding desalination from this scientific abstract."]}
+{"question_id": 79, "category": "extraction", "turns": ["Identify the sequence of emergency actions from this safety manual excerpt."]}
+{"question_id": 80, "category": "extraction", "turns": ["List the three marketing slogans proposed in the brand brainstorming notes."]}
