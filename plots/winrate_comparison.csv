@@ -1,0 +1,3 @@
+Dataset,Judge,Total Pairs,Model A Win %,Model B Win %,Tie %,Bias/Inconsistent %
+CHATBOTARENA,llama3_1_8b,200,41.0,12.5,0.5,46.0
+CHATBOTARENA,phi3_5,200,0.0,0.0,0.0,100.0
