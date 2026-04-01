@@ -1,6 +1,17 @@
 # BenchJudge---Auditing-LLM-as-a-Judge-System
 The project will create an open-source toolkit, allowing researchers to diagnose the reliability of their AI evaluators, thereby making automated assessment more transparent, trustworthy, and scientifically rigorous. 
 
+🏗 Directory Structure & Design
+BenchJudge/
+├── datasets/               # Raw benchmark JSONL files
+├── scripts/                # Execution pipeline (1.0 to 6.0)
+├── outputs/                # Organized by dataset (MT-Bench, Vicuna, etc.)
+│   ├── [dataset_name]/model_answers/   # Processed pairs
+│   └── [dataset_name]/judge_scores/    # Final audit logs
+├── plots/    # Exported plots for result showcase from the code run
+├── requirements.txt        # System dependencies
+└── README.md
+
 🛠 Technical Core & Requirements
 To execute the BenchJudge framework, the system integrates a blend of technical and analytical competencies:
 
@@ -9,6 +20,57 @@ Technical Implementation: Built primarily in Python, the framework handles compl
 Statistical & Quantitative Modeling: The framework is designed to move toward Hierarchical Bayesian Models using probabilistic programming (such as PyStan or NumPyro). This allows for the interpretation of posterior distributions to understand judge reliability rather than relying on static percentages.
 
 Research Rigor: BenchJudge emphasizes systematic experimental design, hypothesis formulation, and version-controlled reproducibility via Git to ensure all meta-evaluations meet scientific standards.
+
+📂 Project Pipeline & Execution Guide
+The BenchJudge framework follows a strict four-stage pipeline. Each stage corresponds to a specific script in the scripts/ directory.
+
+1. Data Preparation
+
+Before auditing, raw benchmark files are pre-processed into a unified pairwise format.
+
+Task: Convert MT-Bench, Vicuna, or Chatbot Arena results into a judge-ready jsonl.
+
+Command: ```bash
+python scripts/1_data_prep.py
+
+Output: /outputs/[dataset]/model_answers/judge_input_pairs.jsonl
+
+2. The Multi-Pass Audit (Core Task)
+
+This is where the actual LLM-as-a-Judge execution happens. The script performs a Forward Pass and a Reverse Pass (swapping Model A and B) to detect bias.
+
+Task: Execute judging using Groq (Llama-3.1, Qwen) or local models.
+
+Command: ```bash
+python scripts/2.4_groq_judge.py
+
+Key Feature: Includes automatic rate-limit handling and {ref_answer_1} key-error protection for math prompts.
+
+Output: /outputs/[dataset]/judge_scores/[dataset]_answers_[model]_judge.jsonl
+
+3. Statistical Meta-Analysis
+
+Once the results are gathered, we calculate the consistency and bias metrics.
+
+Task: Generate Consistency Rates, A-Bias vs. B-Bias percentages, and Position Dominance scores.
+
+Command: ```bash
+python scripts/4_analyze_consistency.py
+
+Output: Console summary of percentage-based failure modes.
+
+4. Visualization & Reporting
+
+Transform raw data into dissertation-ready figures.
+
+Task: Generate Win Rate bar charts, Radar charts by category, and Qualitative report samples.
+
+Commands: ```bash
+python scripts/5_winrates.py       # Bar charts
+python scripts/5.1_radar_plots.py  # Radar charts (Llama vs Qwen)
+python scripts/6_qual_report.py    # Text-based audit report
+
+Output: .png charts/ plots and qualitative_audit_report.txt.
 
 🔬 Experimental Methodology: The "Audit"
 The framework utilizes a Swapped-Pair methodology to isolate structural biases. By presenting the same pair of model responses to a judge but reversing their order (Position A vs. Position B), BenchJudge can calculate exactly how much the judge is influenced by the "slot" rather than the content.
