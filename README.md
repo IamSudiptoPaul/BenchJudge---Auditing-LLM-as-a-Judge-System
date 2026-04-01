@@ -3,14 +3,15 @@ The project will create an open-source toolkit, allowing researchers to diagnose
 
 🏗 Directory Structure & Design
 BenchJudge/
-├── datasets/               # Raw benchmark JSONL files
-├── scripts/                # Execution pipeline (1.0 to 6.0)
-├── outputs/                # Organized by dataset (MT-Bench, Vicuna, etc.)
-│   ├── [dataset_name]/model_answers/   # Processed pairs
-│   └── [dataset_name]/judge_scores/    # Final audit logs
-├── plots/    # Exported plots for result showcase from the code run
-├── requirements.txt        # System dependencies
-└── README.md
+├── datasets/                   # Raw benchmark JSONL files
+├── scripts/                    # Execution pipeline (1.0 to 6.0)
+├── outputs/                    # Processed data & logs
+│   ├── [dataset_name]/
+│   │   ├── model_answers/      # Formatted pairs for judging
+│   │   └── judge_scores/       # Final audit results (Forward/Reverse logs)
+├── plots/                      # Visualizations (Radar charts, Win rates)
+├── requirements.txt            # System dependencies
+└── README.md                   # Project documentation
 
 🛠 Technical Core & Requirements
 To execute the BenchJudge framework, the system integrates a blend of technical and analytical competencies:
